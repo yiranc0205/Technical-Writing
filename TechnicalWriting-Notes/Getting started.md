@@ -25,4 +25,20 @@ A professional information communicator who
 3. Add supporting concepts and information that the customer needs to know.
 4. Add supporting reference information that helps them later on, once they know the products better.
 
+## What is software documentation?
+Software documentation is a part of any software to achieve the following goals:
+• Resolve issue encountered by the developer during the development process  
+• Help end-user to understand the product  
+• Assist customers and the support team to find the information.
+
+## Value of technical writer
+- For the customers:
+	- Helping users to effectively set up and use software
+	- Assisting the users in solving a problem by themselves
+	- Improve user experience
+
+- For the software development team:
+	- Saving time and energy of the development team
+
+
 
