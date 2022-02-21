@@ -12,7 +12,7 @@ A professional information communicator who
 ## Types of documentation
 1. Functional documentation
 	- Often used for **physical products**
-	- For getting started with a new product
+	- For getting started with a new product1
 	- Explain what is this
 2. Task-oriented documentation
 	- Often used for **software products**
