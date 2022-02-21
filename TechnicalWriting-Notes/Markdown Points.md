@@ -1,15 +1,12 @@
-**1. Create a mail link that allows the user to send you mail directly**
+# Mail Link
+Create a mail link that allows the user to send you mail directly**
 `[yiranc0205@gmail.com](mailto:yiranc0205@gmail.com)`
 
 Result:
 [yiranc0205@gmail.com](mailto:yiranc0205@gmail.com)
 
-
-
-
-
-
-**2. Create a TOC (table of content) within the page**
+# Table of Content
+Create a TOC (table of content) within the page**
 - Create links to the headings
 - Separate spaces in the title with a dash (-)
 ```
@@ -18,17 +15,8 @@ Result:
 2. [Part 2](#Part-2)
 ```
 
-Result:
-# Table of Contents
-1. [Part 1](#Part-1)
-2. [Part 2](#Part-2)
-
-
-
-
-
-
-**3. Include a YouTube Video Reference**
+# Video Reference
+Include a YouTube Video Reference**
 ```html
 <!--align left (左对齐)-->
 <div align="left">
