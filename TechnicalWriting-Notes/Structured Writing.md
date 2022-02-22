@@ -1,11 +1,3 @@
-# DITA XML
-- DITA - Darwin Information Typing Architecture
-- 3 basic information types in DITA XML:
-	- concept
-	- task
-	- reference
-- Use **DITA maps** to assemble **DITA topics** into **documents**.
-
 # Doc Templates for Concept, Task and Reference
 ## Concept
 ### Summary
