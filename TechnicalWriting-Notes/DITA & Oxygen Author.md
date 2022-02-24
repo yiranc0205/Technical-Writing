@@ -26,4 +26,11 @@
 3. Create a DITA map
 4. Generate the output
 
+***p.s. In creating DITA topics:*** 
+***- No space in the document title***
+***- Save the new document with an extension .XML***
+![[Pasted image 20220223152556.png]]
 
+# DITA XML Element (Concept Topic)
+![[Pasted image 20220223152149.png]]
+See *DITA Best Practice*
