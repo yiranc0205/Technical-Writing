@@ -1,20 +1,20 @@
 1. Decide **whom** are you writing for
-	My target user is ...
+> My target user is ...
 
 2. Identify **the information needs** of your user
-	What information does my user need?
+> What information does my user need?
 
 3. Decide how you are going to address your user - which **style** to apply
-	I am going to use ... style.
+> I am going to use ... style.
 
 4. Decide which **deliverables** to create
-	I am going to develop a ... deliverable.
+> I am going to develop a ... deliverable.
 
 5. Decide which **tool** to use to create your content
-	I shall create my instructions using ... 
+> I shall create my instructions using ... 
 
 6. Define the content structure
-	I shall structure my content in the following way:
+> I shall structure my content in the following way:
 		a)
 		b)
 		c)
