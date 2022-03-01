@@ -9,19 +9,50 @@ Style guide is the standards of writing, for:
 - Headings
 - Paragraphs
 - Sections
-- Tables (on different screen sizes)
-- Bulleted lists (when the order of the information matters)
-- Numbered lists (when the order of the information doesn't matter)
+- Bulleted lists, when:
+	- the order of the information doesn't matters
+- Numbered lists, when:
+	- the order of the information matter
+	- the sentences starts with imperative verbs
+- Tables
+	- Label each column with a meaningful header.
+	- Avoid putting too much text into a cell.
+	- Strive for parallelism within individual columns.
+	- Consider the visual effects of tables among different screen sizes.
+
+
+p.s. Introduce each list and table with a ***following*** sentence, such as:
+
+> The **following** list identifies key performance parameters:
+> 
+> Take the **following** steps to install the Frambus package:
+> 
+> The **following** table summarizes our product's features against our key competitors' features:
+
 ## Conciseness
 - Avoid redundancies
 - Link to information instead of copying text
 - Add visuals (graphics, diagrams, screenshots...) - don't use text all the time
+
+replacements for a few common bloated phrases:
+
+| Wordy | Concise |
+| :---- | :---- |
+|start again|restart|
+|at this point of time|now|
+|determine the location of|find|
+|is able to|can|
+|cause the triggering of|trigger|
+|provide a detailed description of|describe/detail|
+|enhance the clarification|clarify|
+
 ## Simplicity
 - Use simple language and grammar
 - Use short sentences - don't use long and complex sentences
 - Use positive formulations ("to do what" instead of "not to do what")
 - Don't use long series of noun modifier
 - Use AmE or BrE according to your company
+
 ## Precision
 - Write **true information** (!)
 - Use correct and consistent terminology
@@ -45,7 +76,7 @@ Reduce weak, generic verbs, such as:
 
 Example sentences:
 
-| weak verb | strong verbs |
+| Strong Verb | Weak Verb |
 | ---- | ---- |
 | Dividing by zero **raises** the exception. | The exception **occurs** when dividing by zero. |
 | The system **generates** this error message when... | This error message **happens** when... |
