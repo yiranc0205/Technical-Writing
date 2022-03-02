@@ -16,9 +16,12 @@
 - Consider translatability of the text in your graphics
 
  # Tools for Creating Graphics
- - MS Power Point
- - Google Slides
- - <https://app.diagrams.net/>
- - <https://www.easel.ly/>
+- MS Power Point
+- Google Slides
+- [Google Drawings](https://drawings.google.com/)
+- [diagrams.net](https://diagrams.net/)
+- [LucidChart](https://www.lucidchart.com/pages/)
+- <https://app.diagrams.net/>
+- <https://www.easel.ly/>
 - <https://canva.com>
 
