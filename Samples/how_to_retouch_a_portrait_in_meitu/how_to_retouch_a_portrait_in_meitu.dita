@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_retouch_a_portrait_in_meitu">
+    <title>How to retouch a portrait in Meitu</title>
+    <shortdesc>This tutorial introduces basic steps to retouch a human portrait, by using the Meitu
+        mobile app.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_xrf_vf4_5sb"><b>Before you begin:</b><ul id="ul_hrw_xf4_5sb">
+                <li>Download Meitu app in appstore. <image href="How-to%20Documents/Meitu%20app.png"
+                        placement="break" id="image_l3x_gg4_5sb" height="50" width="50"/></li>
+                <li>Prepare the portrait that you want to retouch. The following is an example
+                        portrait.<image placement="break"
+                        href="How-to%20Documents/origin%20image.jpg" align="left"
+                        id="image_sq2_5g4_5sb" height="250" width="190"/></li>
+            </ul></prereq>
+        <context id="context_jm2_v1r_5sb"><b>Steps:</b></context>
+        <steps>
+            <step>
+                <cmd>Select an image.</cmd>
+                <substeps id="substeps_clf_vfq_5sb">
+                    <substep>
+                        <cmd>Open Meitu app on your phone.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <b>Beautify</b>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the portrait that you want to retouch.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the face that you want to beautify.</cmd>
+                        <info>
+                            <note id="note_ghl_fjq_5sb">If the image contains only one face, skip
+                                this step.</note>
+                        </info>
+                    </substep>
+                </substeps>
+                <info>
+                    <image placement="break" href="How-to%20Documents/step1.png" align="left"
+                        id="image_ob3_yfq_5sb" height="300" width="700"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Smooth the skin.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Tap <b>smooth</b> in the tool bar.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Pull the slider to the right under the Auto mode. 40~70 is a reasonable
+                            range.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <b>✓</b> after finished.</cmd>
+                    </substep>
+                </substeps>
+                <info>
+                    <image placement="break" href="How-to%20Documents/step2.png" scale="60"
+                        align="left" id="image_p3w_bqq_5sb"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Reshape facial structure.</cmd>
+                <info>
+                    <note id="note_kcx_qnq_5sb">This part only shows the essential and common-used
+                        features of reshaping.</note>
+                </info>
+                <substeps id="substeps_lfg_ktq_5sb">
+                    <substep>
+                        <cmd>Tap <b>Reshape</b> in the tool bar.</cmd>
+                        <info>
+                            <image placement="break" href="How-to%20Documents/step3-a.png"
+                                scale="60" align="left" id="image_d4d_yrq_5sb"/>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Choose <b>Face</b>. Perform the following features by pulling the
+                            slider to reach the wanted effect:</cmd>
+                        <info>
+                            <ul id="ul_xjx_xm4_5sb">
+                                <li><b>Width</b>: to narrow or widen the face width</li>
+                                <li><b>Temple</b>: to fill or shrink the temples</li>
+                                <li><b>Cheekbones</b>: to fill or shrink the cheekbones</li>
+                                <li><b>Chin</b>: to shorten or lengthen the chin</li>
+                                <li><b>Lower jaw</b>: to fill or shrink the lower jaw</li>
+                            </ul>
+                        </info>
+                        <info>
+                            <image placement="break" href="How-to%20Documents/step3-b.png"
+                                scale="70" align="left" id="image_dnz_v5q_5sb"/>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <menucascade>
+                                <uicontrol>Eye</uicontrol>
+                                <uicontrol>Expand</uicontrol>
+                            </menucascade>. Pull the slider to the right to enlarge the eyes.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <menucascade>
+                                <uicontrol>Nose</uicontrol>
+                                <uicontrol>Expand</uicontrol>
+                            </menucascade>. Pull the slider to the right to shrink the whole size of
+                            nose.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <b>Nose ala</b>. Pull the slider to the right to shrink the nose
+                            ala.</cmd>
+                        <info>
+                            <image placement="break" href="How-to%20Documents/step3-cde.png"
+                                scale="60" align="left" id="image_udr_y5q_5sb"/>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <menucascade>
+                                <uicontrol>Lip</uicontrol>
+                                <uicontrol>Augmentation</uicontrol>
+                            </menucascade>. Pull the slider to the right to make the lips
+                            fuller.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <b>Smile</b>. Pull the slider to the right to lift up the corners
+                            of the mouth, forming a brighter smile.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <b>✓</b> after finished.</cmd>
+                        <info>
+                            <image placement="break" href="How-to%20Documents/step3-fgh.png"
+                                scale="60" align="left" id="image_a2f_tvq_5sb"/>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>lighten dark circles.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Tap <b>Dark Circles</b> in the tool bar.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Pull the slider to the right under the Auto mode.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <b>✓</b> after finished.</cmd>
+                        <info>
+                            <image placement="break" href="How-to%20Documents/step4.png" scale="60"
+                                align="left" id="image_ncp_5wq_5sb"/>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Add makeup.</cmd>
+                <info>
+                    <note id="note_dj5_wzq_5sb">Pull the slider to adjust the makeup thickness in
+                        the following steps.</note>
+                </info>
+                <substeps>
+                    <substep>
+                        <cmd>Tap <menucascade>
+                                <uicontrol>Makeup</uicontrol>
+                                <uicontrol>眼妆 (eye makeup)</uicontrol>
+                                <uicontrol>睫毛 (eyelash)</uicontrol>
+                                <uicontrol>Fairy</uicontrol>
+                            </menucascade>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <menucascade>
+                                <uicontrol>美瞳 (contact lens)</uicontrol>
+                                <uicontrol>Crescent</uicontrol>
+                            </menucascade>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap ✓ after finished.</cmd>
+                    </substep>
+                </substeps>
+                <info>
+                    <image placement="break" href="How-to%20Documents/step5.png" scale="60"
+                        align="left" id="image_phn_kxq_5sb"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Blur the background.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Tap<menucascade>
+                                <uicontrol> Edit</uicontrol>
+                                <uicontrol>Blur</uicontrol>
+                            </menucascade>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Pull the slider to the right under the Auto mode. </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <b>✓</b> after finished.</cmd>
+                    </substep>
+                </substeps>
+                <info>
+                    <image placement="break" href="How-to%20Documents/step6.png" scale="60"
+                        align="left" id="image_xg4_byq_5sb"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Tap <b>save</b> on the top-right corner.</cmd>
+                <info>
+                    <image placement="break" href="How-to%20Documents/step7.png" scale="60"
+                        align="left" id="image_ep3_4yq_5sb"/>
+                </info>
+            </step>
+        </steps>
+        <result id="result_zvk_znp_5sb"><b>Result:</b> Now you have successfully retouched your
+                portrait!<image placement="break" href="How-to%20Documents/result.png" scale="60"
+                align="left" id="image_hnz_vyq_5sb"/></result>
+    </taskbody>
+</task>
